@@ -20,6 +20,5 @@ A collaborative code playground built with Pusher Channels and React. Tutorial: 
 - [React](https://reactjs.org)
 - [Pusher Channels](https://pusher.com/channels)
 
-## Licence
+![image](https://user-images.githubusercontent.com/16780966/178228469-ac509439-3b03-4c91-8483-1dd8507437b3.png)
 
-[MIT](https://opensource.org/licenses/MIT)
